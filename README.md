@@ -116,11 +116,11 @@ https://www.realvnc.com/en/connect/download/viewer/
 Download and install VNC client as per your system OS.
 Open VNC viewer on your system.
 
-* In the address bar, enter the IP address of your raspberry pi
+* In the address bar, enter the IP address of your Raspberry Pi
 
 ![Image 15-06-20 at 4 27 PM](https://user-images.githubusercontent.com/64366648/84675860-1e011d00-af2d-11ea-86ee-450febae03a9.jpeg)
 
-* When prompted: Enter the password
+* When prompted, Enter the password
 
 ![Image 15-06-20 at 4 28 PM](https://user-images.githubusercontent.com/64366648/84675917-2c4f3900-af2d-11ea-8e0c-6ae0d13f23f3.jpeg)
 
