@@ -55,7 +55,7 @@ Enter your password
 
 ![3](https://user-images.githubusercontent.com/64366648/84675092-10976300-af2c-11ea-8791-62401a115eb7.png)
 
-* Select <Yes>
+* Select "Yes"
   
 ![4](https://user-images.githubusercontent.com/64366648/84675132-2016ac00-af2c-11ea-92f3-0ca782f889f1.png)
 
@@ -68,7 +68,7 @@ You will see a message saying that VNC Server is enabled
 
 ![6](https://user-images.githubusercontent.com/64366648/84675337-679d3800-af2c-11ea-89ff-b106f0d45ccf.png)
 
-* Select <Finish>
+* Select "Finish"
   
 ![7](https://user-images.githubusercontent.com/64366648/84675379-7683ea80-af2c-11ea-9250-5a5d7fa6025b.png)
 
