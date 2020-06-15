@@ -6,7 +6,7 @@ After we've successfully setup OctoPi on our Raspberry Pi, we will see how to us
 A quick and easy guide to setting up OctoPi for beginners with zero experience. Follow these steps to setup OctoPi OS on your Raspberry Pi in a few basic steps regardless of your machine's operating system.
 
 ![Octopi image](https://user-images.githubusercontent.com/64366648/84556016-58e23580-ad20-11ea-9105-232916981913.jpg)
-https://user-images.githubusercontent.com/64366648/84673560-29067e00-af2a-11ea-9536-8304e6153620.png
+! (https://github.com/shandilyaguy247/Enable_Remote_Access_to_Raspberry_Pi-OctoPi_Using_VNC/issues/1#issue-638925836)
 
 So what exactly is VNC? 
 
